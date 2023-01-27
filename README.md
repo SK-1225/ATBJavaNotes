@@ -18,8 +18,19 @@ Created by Pramod Dutta
     - Set
     - Queue
   - Multithreading
+    - Creation
+    - Thread Cycle
+    - Synchronization
+    - Wait, Notify, NotifyAll
+    - Join()
+    - Thread Pool
   - Design Patterns
     - Single Pattern
     - Adaptor
+    - Factory Pattern
 
-#### Rest Assured
+#### LeetCode Challenges
+  - Video Solution
+  - Explaining Time and Space
+
+#### SOLID Principle
