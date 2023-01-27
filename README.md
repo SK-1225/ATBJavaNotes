@@ -4,7 +4,7 @@ Created by Pramod Dutta
 
 ## Core java and RestAssured Notes
 
-#### Core Java and other
+#### 🔥 Core Java and other
   - Variables
   - Data Types
   - Loops and Flow
@@ -29,8 +29,10 @@ Created by Pramod Dutta
     - Adaptor
     - Factory Pattern
 
-#### LeetCode Challenges
+#### 🔥 LeetCode Challenges
   - Video Solution
   - Explaining Time and Space
 
-#### SOLID Principle
+#### 🔥 SOLID Principle
+  - Examples
+  - Not to do
